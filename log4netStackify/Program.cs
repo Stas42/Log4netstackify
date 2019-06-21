@@ -12,7 +12,7 @@ namespace log4netStackify
         static void Main(string[] args)
         {
             log.Info("Hello logging world!");
-            Console.WriteLine("Press enter");
+            Console.WriteLine("Press Enter");
             Console.ReadLine();
         }
     }
